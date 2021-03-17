@@ -1,6 +1,6 @@
 # Repozitorij moje osobne WEB stranice
 
-Ovo je Readme dokumentMD
+Ovo je Readme dokument.
 
 Igramo se malo u WEBu
 
