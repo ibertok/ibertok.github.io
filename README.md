@@ -1,7 +1,7 @@
 # Repozitorij moje osobne WEB stranice
 
-Ovdje će se nalaziti svašta.
+Ovo je Readme dokumentMD
 
 Igramo se malo u WEBu
 
-Moja WEB Stranica https://ibertok.github.io.
+Moja ONLILE WEB Stranica sa githuba https://ibertok.github.io.
